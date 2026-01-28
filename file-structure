@@ -1,0 +1,11 @@
+static-youth/
+│── index.html
+│── tshirts.html
+│── hoodies.html
+│── tracksuits.html
+│── style.css
+│── images/
+     │── anime-bg.jpg
+     │── tee1.jpg
+     │── hoodie1.jpg
+     │── tracksuit1.jpg
